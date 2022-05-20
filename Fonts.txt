@@ -1,0 +1,18 @@
+Fonts:
+
+	H1 Inter Extra Bold 56
+	Numbers Inter ExtraBold 48
+	H2 Inter Bold 42
+	H3 Inter Bold 32
+	Caption ExtraBold 18 = Hauora
+	Button Hauora Bold 16
+	Text Hauora Semibold 18
+	Menu Hauora Semibold 14
+	Body 2 Hauora  Regular 16
+	Small Hauora Regular 12
+
+Hauora font = ./Hauora-Sans-master.zip/fonts
+
+HTML link of Inter font = <link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@700;800&display=swap" rel="stylesheet">
